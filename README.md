@@ -1,7 +1,7 @@
 # *LombScargle Periodogram of 51 Pegasi B*
 
 Using the Scipy package in Python, the Lombscargle Periodogram for *51 Peggasi B* can be obtained.
-Velocity and corresponding sample times are available as velocity.txt and time.txt respectively.
+Velocity and corresponding sample times are available as *velocity.txt* and *time.txt* respectively.  
 scipy.signal.lombscargle(x ,y ,w) takes three array-like arguments which are x, y and angular frequency for the output periodogram.
 The Period of *51 Pegasi b* as per google is 4.2 days, which corresponds to an angular frequency of ~1.48 radians/day.
 Therefore, the third argument should enclose the value = 1.48
