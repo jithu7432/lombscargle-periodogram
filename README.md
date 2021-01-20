@@ -1,2 +1,2 @@
-# lombscargle-periodogram
-LombScargle Periodogram using Scipy
+# LombScargle Periodogram of 51 Pegasi b using Scipy
+
