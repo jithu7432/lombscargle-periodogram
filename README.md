@@ -9,4 +9,5 @@ Therefore, the third argument should enclose the value = 1.48
 ## *Angular_frequency =  numpy.linspace(0.1, 10, 10000)*  
 0.1 to avoid ZeroDivisionError and 2 will suffice but 10 to provide a more cleaner look for the periodogram, and 10000 sampling points evenly in between 0.1 and 10.  
 It is important that your *Angular_frequency* dataset should cover the true value of the star.  
-# # Edit: In addition to the scipy version, I have uploaded the code for the same using the astropy module.
+# # Edit:   
+In addition to the scipy version, I have uploaded the code for the same using the astropy module.
