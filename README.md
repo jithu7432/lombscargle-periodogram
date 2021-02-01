@@ -1,4 +1,4 @@
-# *LombScargle Periodogram of 51 Pegasi B*
+# *LombScargle periodogram of 51 Pegasi B & folding timeseries*
 
 Using the Scipy package in Python, the Lombscargle Periodogram for *51 Peggasi B* can be obtained.  
 Velocity and corresponding sample times are available as *velocity.txt* and *time.txt* respectively.    
