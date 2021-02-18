@@ -9,5 +9,5 @@ xx = [float(_) for _ in x]
 print(1/xx[yy.index(max(yy))],"days")
 plt.plot(1/x, y,color = 'purple')
 plt.xlabel("Time Period")
-plt.savefig("Lombscargle Astro", dpi=300)
+plt.savefig("output//Lombscargle Astro", dpi=300)
 plt.show()
